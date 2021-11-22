@@ -225,7 +225,7 @@
 ----
 
 <div align="center">
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
 
 ----
