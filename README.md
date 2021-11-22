@@ -225,9 +225,7 @@
 ----
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">One joke for you</h2> 
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
 
 ----
